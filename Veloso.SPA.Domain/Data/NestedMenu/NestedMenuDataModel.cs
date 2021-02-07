@@ -1,0 +1,30 @@
+﻿using Cofoundry.Domain;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace Veloso.SPA.Domain
+{
+    /// <summary>
+    /// <para>
+    /// The nested menu demonstrates how you can build menus
+    /// with a pre-defined number of menu levels. This is achieved
+    /// using nested data models and the [NestedDataModelCollection]
+    /// attribute.
+    /// </para>
+    /// <para>
+    /// This example only contains one nested menu level,
+    /// but you could define more by creating and nested more menu 
+    /// types. To use an indeterminate number of menu levels (i.e. a tree 
+    /// structure) have a look at the multi-level menu example.
+    /// </para>
+    /// </summary>
+    public class NestedMenuDataModel : ICustomEntityDataModel
+    {
+        [Required]
+        [NestedDataModelCollection(IsOrderable = true)]
+        public ICollection<NestedMenuItemDataModel> Items { get; set; }
+    }
+}

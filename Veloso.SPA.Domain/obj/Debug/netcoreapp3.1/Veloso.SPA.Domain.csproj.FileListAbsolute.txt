@@ -1,0 +1,9 @@
+/Users/brandymkundenga/Desktop/AdelgioWebsite/src/Veloso.SPA.Domain/bin/Debug/netcoreapp3.1/Veloso.SPA.Domain.deps.json
+/Users/brandymkundenga/Desktop/AdelgioWebsite/src/Veloso.SPA.Domain/bin/Debug/netcoreapp3.1/Veloso.SPA.Domain.dll
+/Users/brandymkundenga/Desktop/AdelgioWebsite/src/Veloso.SPA.Domain/bin/Debug/netcoreapp3.1/Veloso.SPA.Domain.pdb
+/Users/brandymkundenga/Desktop/AdelgioWebsite/src/Veloso.SPA.Domain/obj/Debug/netcoreapp3.1/Veloso.SPA.Domain.csprojAssemblyReference.cache
+/Users/brandymkundenga/Desktop/AdelgioWebsite/src/Veloso.SPA.Domain/obj/Debug/netcoreapp3.1/Veloso.SPA.Domain.AssemblyInfoInputs.cache
+/Users/brandymkundenga/Desktop/AdelgioWebsite/src/Veloso.SPA.Domain/obj/Debug/netcoreapp3.1/Veloso.SPA.Domain.AssemblyInfo.cs
+/Users/brandymkundenga/Desktop/AdelgioWebsite/src/Veloso.SPA.Domain/obj/Debug/netcoreapp3.1/Veloso.SPA.Domain.csproj.CoreCompileInputs.cache
+/Users/brandymkundenga/Desktop/AdelgioWebsite/src/Veloso.SPA.Domain/obj/Debug/netcoreapp3.1/Veloso.SPA.Domain.dll
+/Users/brandymkundenga/Desktop/AdelgioWebsite/src/Veloso.SPA.Domain/obj/Debug/netcoreapp3.1/Veloso.SPA.Domain.pdb

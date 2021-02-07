@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{A244A412-5DBA-45E9-A7CB-C7D9211E86D9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Veloso.SPA/Startup.cs">
+    <Files>
+      <File FileName="Veloso.SPA.Domain/Data/Tags/Queries/GetAllTagsQueryHandler.cs" Line="11" Column="6" />
+      <File FileName="Veloso.SPA.Domain/Data/Photo/Queries/GetPhotoDetailsByIdQueryHandler.cs" />
+      <File FileName="Veloso.SPA/API/TagController.cs" />
+      <File FileName="Veloso.SPA.Domain/Data/Tags/Queries/GetAllTagsQuery.cs" />
+      <File FileName="Veloso.SPA.Domain/Data/Tags/Queries/GetAllTagsByIdRangeQuery.cs" />
+      <File FileName="Veloso.SPA.Domain/Data/Tags/Queries/GetAllTagsByIdRangeQueryHandler.cs" />
+      <File FileName="Veloso.SPA/Startup.cs" Line="22" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="src" expanded="True">
+            <Node name="Veloso.SPA" expanded="True">
+              <Node name="API" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Veloso.SPA PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
