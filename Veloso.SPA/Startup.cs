@@ -29,10 +29,10 @@ namespace Veloso.SPA
                 options.AllowSynchronousIO = true;
             });
 
-            //services.AddSpaStaticFiles(configuration =>
-            //{
-            //    configuration.RootPath = "UI/dist";
-            //});
+            services.AddSpaStaticFiles(configuration =>
+            {
+                configuration.RootPath = "UI/dist";
+            });
 
             services
                 .AddControllersWithViews()
@@ -61,13 +61,7 @@ namespace Veloso.SPA
 
             app.UseHttpsRedirection();
 
-            app.UseStaticFiles();
-            // app.UseStaticFiles(new StaticFileOptions
-            // {
-            //     FileProvider = new PhysicalFileProvider(
-            //         Path.Combine(Directory.GetCurrentDirectory(), "Content")
-            //     ), RequestPath = "/content"
-            // });
+            app.UseSpaStaticFiles();
 
             app.UseCors("CorsPolicy");
 

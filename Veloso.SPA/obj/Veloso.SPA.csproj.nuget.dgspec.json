@@ -1,30 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/brandymkundenga/Desktop/AdelgioWebsite/src/Veloso.SPA/Veloso.SPA.csproj": {}
+    "C:\\Users\\machumbi.kundenga\\Documents\\PTBook\\Veloso.SPA\\Veloso.SPA.csproj": {}
   },
   "projects": {
-    "/Users/brandymkundenga/Desktop/AdelgioWebsite/src/Veloso.SPA.Domain/Veloso.SPA.Domain.csproj": {
+    "C:\\Users\\machumbi.kundenga\\Documents\\PTBook\\Veloso.SPA.Domain\\Veloso.SPA.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/brandymkundenga/Desktop/AdelgioWebsite/src/Veloso.SPA.Domain/Veloso.SPA.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\machumbi.kundenga\\Documents\\PTBook\\Veloso.SPA.Domain\\Veloso.SPA.Domain.csproj",
         "projectName": "Veloso.SPA.Domain",
-        "projectPath": "/Users/brandymkundenga/Desktop/AdelgioWebsite/src/Veloso.SPA.Domain/Veloso.SPA.Domain.csproj",
-        "packagesPath": "/Users/brandymkundenga/.nuget/packages/",
-        "outputPath": "/Users/brandymkundenga/Desktop/AdelgioWebsite/src/Veloso.SPA.Domain/obj/",
+        "projectPath": "C:\\Users\\machumbi.kundenga\\Documents\\PTBook\\Veloso.SPA.Domain\\Veloso.SPA.Domain.csproj",
+        "packagesPath": "C:\\Users\\machumbi.kundenga\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\machumbi.kundenga\\Documents\\PTBook\\Veloso.SPA.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/brandymkundenga/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\machumbi.kundenga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/orchardcore-preview/api/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -36,7 +38,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Cofoundry.Domain": {
               "target": "Package",
@@ -44,7 +45,7 @@
             },
             "Microsoft.AspNetCore.SpaServices": {
               "target": "Package",
-              "version": "[3.1.10, )"
+              "version": "[3.1.11, )"
             }
           },
           "imports": [
@@ -58,38 +59,43 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/brandymkundenga/Desktop/AdelgioWebsite/src/Veloso.SPA/Veloso.SPA.csproj": {
+    "C:\\Users\\machumbi.kundenga\\Documents\\PTBook\\Veloso.SPA\\Veloso.SPA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/brandymkundenga/Desktop/AdelgioWebsite/src/Veloso.SPA/Veloso.SPA.csproj",
+        "projectUniqueName": "C:\\Users\\machumbi.kundenga\\Documents\\PTBook\\Veloso.SPA\\Veloso.SPA.csproj",
         "projectName": "Veloso.SPA",
-        "projectPath": "/Users/brandymkundenga/Desktop/AdelgioWebsite/src/Veloso.SPA/Veloso.SPA.csproj",
-        "packagesPath": "/Users/brandymkundenga/.nuget/packages/",
-        "outputPath": "/Users/brandymkundenga/Desktop/AdelgioWebsite/src/Veloso.SPA/obj/",
+        "projectPath": "C:\\Users\\machumbi.kundenga\\Documents\\PTBook\\Veloso.SPA\\Veloso.SPA.csproj",
+        "packagesPath": "C:\\Users\\machumbi.kundenga\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\machumbi.kundenga\\Documents\\PTBook\\Veloso.SPA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/brandymkundenga/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\machumbi.kundenga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/orchardcore-preview/api/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/Users/brandymkundenga/Desktop/AdelgioWebsite/src/Veloso.SPA.Domain/Veloso.SPA.Domain.csproj": {
-                "projectPath": "/Users/brandymkundenga/Desktop/AdelgioWebsite/src/Veloso.SPA.Domain/Veloso.SPA.Domain.csproj"
+              "C:\\Users\\machumbi.kundenga\\Documents\\PTBook\\Veloso.SPA.Domain\\Veloso.SPA.Domain.csproj": {
+                "projectPath": "C:\\Users\\machumbi.kundenga\\Documents\\PTBook\\Veloso.SPA.Domain\\Veloso.SPA.Domain.csproj"
               }
             }
           }
@@ -102,7 +108,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Cofoundry.Plugins.ErrorLogging.Admin": {
               "target": "Package",
@@ -119,6 +124,14 @@
             "Cofoundry.Web.Admin": {
               "target": "Package",
               "version": "[0.8.0, )"
+            },
+            "Microsoft.AspNetCore.SpaServices": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Microsoft.AspNetCore.SpaServices.Extensions": {
+              "target": "Package",
+              "version": "[3.1.11, )"
             },
             "Swashbuckle.AspNetCore.SwaggerGen": {
               "target": "Package",
@@ -147,7 +160,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
